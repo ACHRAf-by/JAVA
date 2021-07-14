@@ -1,0 +1,3 @@
+# JAVA-Basics
+JAVA
+Some corrected exercices that help you understand the Java Language Basics like OOP, Classes, Java keywords, Inheritance, interfaces, collections ...
